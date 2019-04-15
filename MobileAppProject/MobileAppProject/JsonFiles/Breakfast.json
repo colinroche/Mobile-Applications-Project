@@ -1,0 +1,14 @@
+// Array list to store recipe information
+[
+  {
+    "meal": "Breakfast"
+  },
+  {
+    "name": "Brownies",
+    "email": "Cuant"
+  },
+  {
+    "name": "why",
+    "email": "the fuck"
+  }
+]

@@ -1,0 +1,14 @@
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\bin\Debug\netstandard2.0\MobileAppProject.deps.json
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\bin\Debug\netstandard2.0\MobileAppProject.dll
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\bin\Debug\netstandard2.0\MobileAppProject.pdb
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\MobileAppProject.csprojAssemblyReference.cache
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\MobileAppProject.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\MobileAppProject.AssemblyInfoInputs.cache
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\MobileAppProject.AssemblyInfo.cs
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\MobileAppProject.dll
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\MobileAppProject.pdb
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\Home.xaml.g.cs
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\Recipe.xaml.g.cs
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\Post.xaml.g.cs
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\XamlC.stamp
