@@ -1,14 +1,9 @@
-// Array list to store recipe information
+// Array list to store breakfast information
 [
   {
-    "meal": "Breakfast"
-  },
-  {
-    "name": "Brownies",
-    "email": "Cuant"
-  },
-  {
-    "name": "why",
-    "email": "the fuck"
+    "Name": "Pancakes",
+    "Detail": "bacon mancakes",
+    "Image": "https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2016/09/american-style-pancakes.jpg",
+    "Ingredients": "This is details yes"
   }
 ]

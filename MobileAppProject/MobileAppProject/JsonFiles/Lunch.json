@@ -1,11 +1,9 @@
-// Array list to store recipe information
+// Array list to store lunch information
 [
   {
-    "name": "Brownies",
-    "email": "Cuant"
-  },
-  {
-    "name": "why",
-    "email": "the fuck"
+    "Name": "Roasted red pepper & tomato soup with ricotta",
+    "Detail": "Delicious",
+    "Image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/09/roasted-red-pepper-tomato-soup-with-ricotta.jpg?itok=56oFQK0N",
+    "Ingredients": "This is details yes"
   }
 ]

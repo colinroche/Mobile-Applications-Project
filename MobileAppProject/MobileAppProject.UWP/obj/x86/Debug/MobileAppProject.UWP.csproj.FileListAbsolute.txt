@@ -300,3 +300,5 @@ C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.U
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.UWP\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.UWP\bin\x86\Debug\Newtonsoft.Json.dll
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.UWP\bin\x86\Debug\Newtonsoft.Json.pdb
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.UWP\bin\x86\Debug\ImageCircle.Forms.Plugin.dll
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.UWP\obj\x86\Debug\ImageCircle.Forms.Plugin.pri.xml

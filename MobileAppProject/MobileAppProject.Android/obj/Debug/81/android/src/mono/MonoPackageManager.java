@@ -106,7 +106,9 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "MobileAppProject.Android.dll" comes first in this list. */
+		"MobileAppProject.Android.dll",
 		"FormsViewGroup.dll",
+		"ImageCircle.Forms.Plugin.dll",
 		"MobileAppProject.dll",
 		"Newtonsoft.Json.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",

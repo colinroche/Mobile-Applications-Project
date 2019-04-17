@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 using Foundation;
+using ImageCircle.Forms.Plugin.iOS;
 using UIKit;
 
 namespace MobileAppProject.iOS
@@ -23,6 +24,8 @@ namespace MobileAppProject.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
+            // Renderer for circle image
+            ImageCircleRenderer.Init();
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

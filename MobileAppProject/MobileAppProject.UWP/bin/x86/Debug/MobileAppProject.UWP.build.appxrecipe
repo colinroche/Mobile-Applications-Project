@@ -523,6 +523,9 @@
     <AppxPackagedFile Include="C:\Users\colin\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\lib\uap10.0.15138\netstandard.dll">
       <PackagePath>netstandard.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\colin\.nuget\packages\xam.plugins.forms.imagecircle\3.0.0.5\lib\uap10.0.16299\ImageCircle.Forms.Plugin.dll">
+      <PackagePath>ImageCircle.Forms.Plugin.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\colin\.nuget\packages\xamarin.forms\3.4.0.1008975\lib\uap10.0\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
     </AppxPackagedFile>

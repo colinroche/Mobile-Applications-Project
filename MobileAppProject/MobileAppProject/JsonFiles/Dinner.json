@@ -1,11 +1,9 @@
-// Array list to store recipe information
+// Array list to store dinner information
 [
   {
-    "name": "Brownies",
-    "email": "Cuant"
-  },
-  {
-    "name": "why",
-    "email": "the fuck"
+    "Name": "Bolognese recipes",
+    "Detail": "Delicious",
+    "Image": "https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2017/08/the-best-spaghetti-bolognese.jpg",
+    "Ingredients": "This is details yes"
   }
 ]
