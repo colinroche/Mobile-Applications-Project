@@ -1,9 +1,46 @@
 // Array list to store breakfast information
 [
   {
-    "Name": "Pancakes",
-    "Detail": "bacon mancakes",
+    "Name": "American pancakes",
+    "Detail": "Easy, American-style, fluffy pancakes",
     "Image": "https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2016/09/american-style-pancakes.jpg",
-    "Ingredients": "This is details yes"
+    "Ingredients": "200g self-raising flour\n 1 and half tsp baking powder\n 1 tbsp golden caster sugar\n 3 large eggs\n 25g melted butter\n 200ml milk\n vegetable oil - for cooking"
+  },
+  {
+    "Name": "Shakshuka",
+    "Detail": "Vary this popular brunch dish by flavouring the simple tomato sauce, curry powder, pesto or fresh herbs",
+    "Image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--12141_11.jpg?itok=RUtvuKpX",
+    "Ingredients": "1 tbsp olive oil\n 2 red onions, chopped\n 1 red chilli, deseeded and finely chopped\n 1 garlic clove, sliced\n small bunch coriander, stalks and leaves chopped separately\n 2 400g cans cherry tomatoes\n 1 tsp caster sugar\n 4 eggs"
+  },
+  {
+    "Name": "Spicy Moroccan eggs",
+    "Detail": "This quick, spicy brunch dish is packed with healthy courgettes, chickpeas, tomatos and spinach",
+    "Image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/moroccan-eggs.jpg?itok=vnXPZAkL",
+    "Ingredients": "2 tsp rapeseed oil\n 1 large onion halved and thinly sliced\n 3 garlic cloves, sliced\n 1 tbsp rose harissa\n 1 tsp ground coriander\n 150ml vegetable stock\n 400g can chickpea\n 2 x 400g cans cherry tomatoes\n 2 courgettes, finely diced\n 200g bag baby spinach\n 4 tbsp chopped coriander\n 4 large eggs"
+  },
+  {
+    "Name": "Honey mustard sausages with tomatoes & eggs",
+    "Detail": "Cook your full English in the oven on a single tray for ultimate ease",
+    "Image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--459480_11.jpg?itok=o4PmQEEL",
+    "Ingredients": "A little butter, for the dish\n 18 chipolatas (or thick cut bacon)\n 250g large cherry tomatoes, some halved, others left whole\n 1 tbsp wholegrain mustard\n 1 tbsp honey\n 12 slices French bread\n 6 eggs\n A few chives/ snipped"
+  },
+  {
+    "Name": "Ham & potato hash with baked beans & eggs",
+    "Detail": "Sick of your standard fry? try this for an alterative",
+    "Image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/ham-potato-hash-with-baked-beans-healthy-fried-eggs.jpg?itok=rOEE_Ets",
+    "Ingredients": "600g potato, diced\n 1 Cal cooking spray, for frying\n 2 leeks, trimmed, washed and sliced\n 175g lean ham, weighed after trimming and discarding any fat, chopped\n 2 tbsp wholegrain mustard\n 5 eggs\n 2 x 415g cans reduced sugar & salt baked beans"
+  },
+  {
+    "Name": "Full English potato cake",
+    "Detail": "Take time to start the day in style with a special breakfast of giant hash browns with bacon, eggs and tomato",
+    "Image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1158567_11.jpg?itok=OJF1Eb6l",
+    "Ingredients": "1 and half kg of potatoes, diced into 1cm chunks\n 4 tbsp olive oil\n 6 spring onions, finely chopped\n 2 thyme sprigs, leaves stripped, plus 1 sprig left whole\n 25g butter, melted\n 12 rashers streaky bacon\n 3 large plum tomatoes, halved\n cracked black pepper\n 6 medium eggs\n buttered toast, to serve"
+  },
+  {
+    "Name": "Spinach baked eggs with parmesan & tomato toasts",
+    "Detail": "Make these as a simple starter or as a tasty brunch - a great combination of flavours",
+    "Image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--981473_11.jpg?itok=-bkYmTnn",
+    "Ingredients": "400g fresh spinach\n 100g Basil, parmesan & tomato butter\n 4 eggs\n 8-12 slices French stick"
   }
+
 ]

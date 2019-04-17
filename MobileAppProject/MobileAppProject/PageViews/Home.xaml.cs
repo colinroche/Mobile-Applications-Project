@@ -11,7 +11,7 @@ namespace MobileAppProject
 		public Home ()
 		{
 			InitializeComponent ();
-		}
+        }
 
         private void Button_Clicked(object sender, EventArgs e)
         {

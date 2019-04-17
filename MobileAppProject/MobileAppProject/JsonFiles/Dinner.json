@@ -2,8 +2,44 @@
 [
   {
     "Name": "Bolognese recipes",
-    "Detail": "Delicious",
+    "Detail": "This delicious Italian sauce is highly versatile and can be served, not only on spaghetti, but in pasta bakes and even tacos.",
     "Image": "https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2017/08/the-best-spaghetti-bolognese.jpg",
-    "Ingredients": "This is details yes"
+    "Ingredients": "1 tbsp olive oil\n 4 rashers smoked streaky bacon, finely chopped\n 2 medium onions, finely chopped\n 2 carrots, trimmed and finely chopped\n 2 celery sticks, finely chopped\n 2 garlic cloves, finely chopped\n 2-3 sprigs rosemary, leaves picked and finely chopped\n 500g beef mince\n\nFor the Bolognese sauce\n 2 x 400g tins plum tomatoes\n Small pack basil, leaves picked, three quarters finely chopped and the rest left whole for garnish\n 1 tsp dried oregano\n 2 fresh bay leaves\n 2 tbsp tomato puree\n 1 beef stock cube\n 1 red chilli, deseeded and finely chopped (optional)\n 125ml red wine\n 6 cherry tomatoes, sliced in half"
+  },
+  {
+    "Name": "Peanut butter chicken",
+    "Detail": "The whole family will love this new, budget chicken dish. Any leftovers freeze well and make a handy lunch",
+    "Image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2016/07/peanut-butter-chicken.jpg?itok=mg1THxCG",
+    "Ingredients": "2 tbsp vegetable oil\n 8 skinless boneless chicken thighs, cut into chunks\n 1 garlic clove, crushed\n 2 red chillies, finely sliced\n 2 tsp fresh ginger, grated\n 2 tsp garam masala\n 100g smooth peanut butter\n 400ml can coconut milk\n 400g can chopped tomatoes\n 1 small bunch coriander, half a roughly chopped, half a leaves picked\n roasted peanuts, to serve\n cooked basmati rice, to serve"
+  },
+  {
+    "Name": "Chilli con carne recipe",
+    "Detail": "This great chilli recipe has to be one of the best dishes to serve to friends for a casual get-together. An easy sharing favourite that uses up storecupboard ingredients.",
+    "Image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1001451_6.jpg?itok=UV2FygMI",
+    "Ingredients": "1 large onion\n 1 red pepper\n 2 garlic cloves\n 1 tbsp oil\n 1 heaped tsp hot chilli powder\n 1 tsp paprika\n 1 tsp ground cumin\n 500g lean minced beef\n 1 beef stock cube\n 400g can chopped tomatoes\n half a tsp dried marjoram\n 1 tsp sugar\n 2 tbsp tomato puree\n 410g can red kidney beans\n plain boiled long grain rice, to serve\n soured cream, to serve"
+  },
+  {
+    "Name": "Friday night fish pie",
+    "Detail": "Lulu Grimes shares a delicious, easy recipe to pop in the freezer for those busy nights",
+    "Image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--133464_12.jpg?itok=szI54-gP",
+    "Ingredients": "For the topping\n 1 and a half kg potato, chopped into chunks\n 50g butter\n\n For the filling\n 1 and a half litre full-fat milk\n 800g skinless white fish\n 600g skinless smoked haddock fillet\n 1 onion, quartered\n 2 bay leaves\n 140g butter\n 140g plain flour\n nutmeg, to season\n small bunch parsley, leaves only, finely chopped\n 200g cooked, peeled prawns\n 6 eggs, hard-boiled and quartered "
+  },
+  {
+    "Name": "Beef stroganoff",
+    "Detail": "Make a classic beef stroganoff with steak and mushrooms for a tasty midweek meal. Garnish with parsley and serve with pappardelle pasta or rice",
+    "Image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/09/beefstroganoff.jpg?itok=H6XBu1VQ",
+    "Ingredients": "1 tbsp olive oil\n 1 onion, sliced\n 1 clove of garlic\n 1 tbsp butter\n 250g mushrooms, sliced\n 1 tbsp plain flour\n 500g fillet steak, sliced\n 150g creme fraiche\n 1 tsp English mustard\n 100ml beef stock\n half small pack of parsley, chopped"
+  },
+  {
+    "Name": "Prawn & rice noodle stir-fry",
+    "Detail": "This simple, midweek meal is low fat, low calorie and bursting with Asian flavours - it's ready in under half an hour too",
+    "Image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/prawn-rice-noodle-stir-fry.jpg?itok=YSOidyId",
+    "Ingredients": "200g rice noodles\n 1 tbsp vegetable oil\n 1 leek, sliced\n 200g fine green beans\n 300g beansprouts\n 1 garlic clove, crushed\n 300g peeled raw king prawns\n 1-2 tbsp soy sauce"
+  },
+  {
+    "Name": "Ginger sweet tofu with pak choi",
+    "Detail": "If you thought tofu was bland, this is the recipe to convince you otherwise",
+    "Image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--219531_12.jpg?itok=QIC7BpjC",
+    "Ingredients": "250g fresh firm tofu, drained\n 2 tbsp groundnut oil\n 1cm piece ginger, sliced\n 200g pak choi, leaves separated\n 1 tbsp Shaohsing rice wine\n 1 tbsp rice vinegar\n half a tsp dried chilli flakes\n cooked jasmine rice, to serve\n\n For the marinade\n 1 tbsp grated ginger\n 1 tsp dark soy sauce\n 2 tbsp light soy sauce\n 1 tbsp brown sugar"
   }
 ]

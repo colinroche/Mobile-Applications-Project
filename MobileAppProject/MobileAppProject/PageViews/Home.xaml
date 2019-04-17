@@ -1,17 +1,63 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin"
              x:Class="MobileAppProject.Home"
              Title="Home">
     <ContentPage.Content>
-        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <RelativeLayout>
+            <Image Source="https://www.desktopbackground.org/download/540x960/2014/01/05/696516_simple-blue-geometric-wallpapers-178-1920x1080-umad-com_1920x1080_h.png"
+                   RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width}"
+                   RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height}"/>
 
-            <Button BorderRadius="10" Text="Breakfast" Clicked="Button_Clicked"/>
-            <Button BorderRadius="10" Text="Lunch" Clicked="Button_Clicked2"/>
-            <Button BorderRadius="10" Text="Dinner" Clicked="Button_Clicked3"/>
-            <Button BorderRadius="10" Text="Dessert" Clicked="Button_Clicked4"/>
+            <Grid x:Name="PageContentGrid"
+                  RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width}"
+                   RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height}">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
 
-        </StackLayout>
+                <Label Text="Welcome To Our App!!!" 
+                       FontSize="Medium"
+                       FontFamily="Arial"
+                       HorizontalOptions="Center" 
+                       Grid.Row="1"/>
 
+                <StackLayout Grid.Row="2" Grid.Column="0" Grid.RowSpan="5" WidthRequest="200" HorizontalOptions="Center">
+                    <Button Text="Breakfast" 
+                            FontSize="Medium"
+                            BorderRadius="10" 
+                            Margin="10, 10"
+                            Clicked="Button_Clicked"/>
+                    
+                    <Button Text="Lunch" 
+                            FontSize="Medium"
+                            BorderRadius="10" 
+                            Margin="10, 10"
+                            Clicked="Button_Clicked2"/>
+                    
+                    <Button Text="Dinner"
+                            FontSize="Medium"
+                            BorderRadius="10" 
+                            Margin="10, 10"
+                            Clicked="Button_Clicked3"/>
+                    
+                    <Button Text="Dessert" 
+                            FontSize="Medium"
+                            BorderRadius="10" 
+                            Margin="10, 10"
+                            Clicked="Button_Clicked4"/>
+                </StackLayout>
+
+            </Grid>
+        </RelativeLayout>
     </ContentPage.Content>
 </ContentPage>
