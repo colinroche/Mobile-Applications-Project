@@ -1,5 +1,6 @@
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\android\assets\MobileAppProject.Android.dll
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\android\assets\FormsViewGroup.dll
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\android\assets\ImageCircle.Forms.Plugin.dll
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\android\assets\Java.Interop.dll
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\android\assets\MobileAppProject.dll
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\android\assets\Mono.Android.dll

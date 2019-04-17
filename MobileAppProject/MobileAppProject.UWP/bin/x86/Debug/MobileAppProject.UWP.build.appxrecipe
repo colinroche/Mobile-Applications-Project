@@ -649,9 +649,6 @@
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.UWP\logo.png">
-      <PackagePath>logo.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>

@@ -34,7 +34,6 @@ C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.A
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\R.cs.flag
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\R.txt
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\uploadflags.txt
-C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\bin\Debug\netstandard2.0\MobileAppProject.dll
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\bin\Debug\FormsViewGroup.pdb
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\bin\Debug\Mono.Android.pdb
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\bin\Debug\mscorlib.pdb
@@ -57,6 +56,7 @@ C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.A
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\bin\Debug\System.ServiceModel.Internals.pdb
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\bin\Debug\System.Web.Services.pdb
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\bin\Debug\Mono.Security.pdb
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\bin\Debug\MobileAppProject.dll.mdb
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\linksrc\MobileAppProject.Android.pdb
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\linksrc\Mono.Android.pdb
@@ -80,5 +80,12 @@ C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.A
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\linksrc\Mono.Security.pdb
-C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\bin\Debug\MobileAppProject.dll.mdb
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\linksrc\MobileAppProject.dll.mdb
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\android\assets\MobileAppProject.dll.mdb
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\android\assets\MobileAppProject.Android.pdb
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\android\assets\Newtonsoft.Json.pdb
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject.Android\obj\Debug\81\linksrc\MobileAppProject.dll.mdb
