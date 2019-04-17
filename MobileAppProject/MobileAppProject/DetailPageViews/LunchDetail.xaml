@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MobileAppProject.DetailPageViews.LunchDetail">
+             x:Class="MobileAppProject.DetailPageViews.LunchDetail"
+             Title="LunchDetails">
     <ContentPage.Content>
         <!-- Display info of breakfast that is selected -->
             <StackLayout HorizontalOptions="Center">
