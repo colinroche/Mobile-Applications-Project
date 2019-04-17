@@ -33,7 +33,7 @@ namespace MobileAppProject.PageViews
                 List<RecipeModel> myList = JsonConvert.DeserializeObject<List<RecipeModel>>(json);
                 lunchList = new ObservableCollection<RecipeModel>(myList);
                 // Set ListView with item got from deserializing json
-                MyListView2.ItemsSource = lunchList;
+                MyListViewLunch.ItemsSource = lunchList;
             }
         }
 

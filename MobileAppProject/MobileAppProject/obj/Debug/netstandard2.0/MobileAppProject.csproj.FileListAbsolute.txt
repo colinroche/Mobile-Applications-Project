@@ -14,3 +14,7 @@ C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\o
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\DetailPageViews\BreakfastDetail.xaml.g.cs
 C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\DetailPageViews\LunchDetail.xaml.g.cs
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\DetailPageViews\DinnerDetail.xaml.g.cs
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\PageViews\Dinner.xaml.g.cs
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\DetailPageViews\DessertDetail.xaml.g.cs
+C:\Users\colin\source\repos\MobileAppProject\MobileAppProject\MobileAppProject\obj\Debug\netstandard2.0\PageViews\Dessert.xaml.g.cs

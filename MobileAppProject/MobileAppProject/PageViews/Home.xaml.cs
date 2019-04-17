@@ -35,23 +35,17 @@ namespace MobileAppProject
 
         private void Button_Clicked3(object sender, EventArgs e)
         {
-            var page = new Lunch();
+            var page = new Dinner();
 
             Navigation.PushAsync(page);
         }
 
         private void Button_Clicked4(object sender, EventArgs e)
         {
-            var page = new Breakfast();
+            var page = new Dessert();
 
             Navigation.PushAsync(page);
         }
 
-        private void Button_Clicked5(object sender, EventArgs e)
-        {
-            var page = new Breakfast();
-
-            Navigation.PushAsync(page);
-        }
     }
 }

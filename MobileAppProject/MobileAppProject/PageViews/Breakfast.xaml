@@ -6,7 +6,7 @@
              Title="Breakfast">
     <ContentPage.Content>
         <!-- Setting up listView and itemTapped method for items -->
-        <ListView x:Name="MyListView1"
+        <ListView x:Name="MyListViewBreakfast"
                   HasUnevenRows="True"
                   SeparatorVisibility="None"
                   ItemTapped="BreakfastSelected"

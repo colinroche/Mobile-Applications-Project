@@ -5,7 +5,7 @@
              x:Class="MobileAppProject.PageViews.Lunch">
     <ContentPage.Content>
         <!-- Setting up listView and itemTapped method for items -->
-        <ListView x:Name="MyListView2"
+        <ListView x:Name="MyListViewLunch"
                   HasUnevenRows="True"
                   SeparatorVisibility="None"
                   ItemTapped="LunchSelected"

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileAppProject.DetailPageViews.DinnerDetail">
+    <ContentPage.Content>
+        <!-- Display info of dinner that is selected -->
+        <StackLayout HorizontalOptions="Center">
+            <Label Text="Dinner" HorizontalOptions="Center" FontSize="Small"/>
+            <Image x:Name="DinnerDetailImage" HeightRequest="100" WidthRequest="100"/>
+            <Label x:Name="DinnerDetailName" HorizontalOptions="Center"/>
+            <Label x:Name="DinnerDetailIngredient" Margin="20,20" FontSize="Micro"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
